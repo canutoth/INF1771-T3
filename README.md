@@ -3,11 +3,11 @@
 ## Descrição  
 Este repositório contém o desenvolvimento de modelos preditivos para dois problemas de classificação, usando exclusivamente a ferramenta Orange:  
 - **Análise de Crédito**: prever aprovação (+) ou não (–) de crédito a partir de atributos anonimizados A1–A12;  
-- **Avaliação de Carros**: classificar carros em _unacc_, _acc_, _good_ ou _v‑good_ com base em suas características :contentReference[oaicite:0]{index=0}.
+- **Avaliação de Carros**: classificar carros em _unacc_, _acc_, _good_ ou _v‑good_ com base em suas características.
 
 ## Datasets  
 - **Credit Approval**: atributos numéricos e categóricos A1–A12, classe binária (+/–).  
-- **Car Evaluation**: atributos nominais como _buying_, _maint_ e _safety_, classe com quatro níveis de qualidade :contentReference[oaicite:1]{index=1}.
+- **Car Evaluation**: atributos nominais como _buying_, _maint_ e _safety_, classe com quatro níveis de qualidade.
 
 ## Tarefas  
 
